@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "taskName": "Task 1",
+    "assignee": "John Doe ",
+    "dueDate": "2024-12-31",
+    "issueDate": "2024-12-01",
+    "hoursSpent": 3,
+    "project": "Project A",
+    "difficulty": "medium"
+  },
+  {
+    "id": 2,
+    "taskName": "Task 2 updated",
+    "assignee": "Jane Doe",
+    "dueDate": "2024-02-10",
+    "issueDate": "2024-01-05",
+    "hoursSpent": 900,
+    "project": "Project B",
+    "difficulty": "medium"
+  },
+  {
+    "id": 3,
+    "taskName": "Task 3",
+    "assignee": "Jane Snow",
+    "dueDate": "2024-02-10",
+    "issueDate": "2024-01-05",
+    "hoursSpent": 13,
+    "project": "Project D",
+    "difficulty": "hard"
+  },
+  {
+    "id": 4,
+    "taskName": "Task 3",
+    "assignee": "john snow",
+    "dueDate": "2024-12-04",
+    "issueDate": "2024-12-29",
+    "hoursSpent": 13,
+    "project": "Project A",
+    "difficulty": "hard"
+  },
+  {
+    "id": 6,
+    "taskName": "task 4 ",
+    "assignee": "1",
+    "dueDate": "2024-11-28",
+    "issueDate": "2024-12-31",
+    "hoursSpent": 2,
+    "project": "3",
+    "difficulty": "medium"
+  }
+]
